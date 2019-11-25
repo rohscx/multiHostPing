@@ -1,0 +1,22 @@
+{
+  "name": "multihostping",
+  "version": "1.0.0",
+  "description": "Ping Multiple Hosts continuously",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohscx/multiHostPing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohscx/multiHostPing/issues"
+  },
+  "homepage": "https://github.com/rohscx/multiHostPing#readme",
+  "dependencies": {
+    "nodeutilz": "^1.0.8"
+  }
+}

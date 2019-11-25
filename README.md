@@ -1,5 +1,6 @@
 # multiHostPing
 Ping Multiple Hosts continuously
+Exports logfile to export folder
 
 
 ### iseEndpointIdInfo
